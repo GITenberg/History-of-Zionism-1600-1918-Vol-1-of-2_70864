@@ -1,0 +1,67 @@
+_repo: History-of-Zionism-1600-1918-Vol-1-of-2_70864
+_version: 0.0.1
+contributor:
+  author_of_introductions:
+  - agent_name: Balfour, Arthur James
+    aliases:
+    - Balfour, Arthur James Balfour, Earl of
+    - Balfour, A. J. (Arthur James)
+    birthdate: 1848
+    deathdate: 1930
+    gutenberg_agent_id: '49596'
+    url: http://www.gutenberg.org/2009/agents/49596
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Balfour
+  - agent_name: Bryce, James Bryce, Viscount
+    alias: Bryce, Viscount
+    birthdate: 1838
+    deathdate: 1922
+    gutenberg_agent_id: '1191'
+    url: http://www.gutenberg.org/2009/agents/1191
+    wikipedia: https://en.wikipedia.org/wiki/James_Bryce,_1st_Viscount_Bryce
+  - agent_name: Sykes, Mark
+    alias: Sykes, Mark, Sir, bart.
+    birthdate: 1879
+    deathdate: 1919
+    gutenberg_agent_id: '55948'
+    url: http://www.gutenberg.org/2009/agents/55948
+    wikipedia: https://en.wikipedia.org/wiki/Mark_Sykes
+  contributor:
+    agent_name: Solomons, Israel
+    birthdate: 1860
+    deathdate: 1923
+    gutenberg_agent_id: '55950'
+    url: http://www.gutenberg.org/2009/agents/55950
+creator:
+  author:
+    agent_name: Sokolow, Nahum
+    aliases:
+    - סוקולוב, נחום
+    - Sokolow, N. (Nahum)
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '55969'
+    url: http://www.gutenberg.org/2009/agents/55969
+    wikipedia: https://en.wikipedia.org/wiki/Nahum_Sokolow
+description: ''
+gutenberg_issued: '2023-05-26'
+identifiers:
+  gutenberg: '70864'
+language: en
+pgterms:marc904: https://archive.org/details/historyofzionism01sokouoft
+pgterms:marc905: 20170521114542sokolow
+pgterms:marc906: '1919'
+pgterms:marc907: GB
+production_note: Richard Hulse, Tony Browne, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bLongmans, Green and Co., $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Restoration'
+- !lcsh 'Zionism -- History'
+- !lcc 'DS'
+- GITenberg
+title: History of Zionism, 1600-1918, Vol. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/70864
