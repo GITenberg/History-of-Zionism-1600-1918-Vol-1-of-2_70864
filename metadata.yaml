@@ -31,6 +31,9 @@ contributor:
     deathdate: 1923
     gutenberg_agent_id: '55950'
     url: http://www.gutenberg.org/2009/agents/55950
+covers:
+- cover_type: archival
+  image_path: 70864-h/images/cover.jpg
 creator:
   author:
     agent_name: Sokolow, Nahum
@@ -43,6 +46,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55969
     wikipedia: https://en.wikipedia.org/wiki/Nahum_Sokolow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70864#History-of-Zionism-1600-1918-Vol-1-of-2
 gutenberg_issued: '2023-05-26'
 identifiers:
   gutenberg: '70864'
